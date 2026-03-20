@@ -4,12 +4,15 @@
 To write a C function to insert a node in a linked list.
 
 ## Algorithm
-1. 
-2. 
-3. 
-4.  
-5.   
-
+```
+1.Start.
+Define a variables.
+Write a function to insert a node in a linked list.
+Read the value using scanf.
+Ask the user to make an input.
+Print out the answer.
+End
+ ```
 ## Program:
 ```
 /*
