@@ -4,11 +4,13 @@
 To write a C function to traverse the linked list and display it in the following format.
 
 ## Algorithm
-1. 
-2. 
-3. 
-4.  
-5.   
+```
+Start
+Check if the queue is empty (front == NULL):
+If empty, print "Queue is empty" and exit.
+Otherwise, return the data of the front node.
+End
+```
 
 ## Program:
 ```
